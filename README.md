@@ -1,20 +1,63 @@
-- #👋 Hi, I’m @meghanamanchala , I'm a student at Kalvium.
-- 👀 I’m interested in programming, technology, science, designing etc..
-- 🌱 I’m currently learning Full Stack Web Development.
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me mail : meghanamanchal@gmail.com.
+# Hey, I'm Meghana Manchala 👋
 
-<br/>
+> Full Stack Developer · Open Source Enthusiast · Problem Solver
 
--------
-![](https://github-readme-stats.vercel.app/api?username=meghanamanchala&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=meghanamanchala&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=meghanamanchala&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/>
+I'm a developer at **Kalvium** who loves turning ideas into real, deployed products. I work across the full stack — from crafting pixel-perfect UIs to designing robust backend APIs — and I'm always looking for meaningful projects to contribute to.
 
-💻 Tech Stack:
-<br/>
-------------------
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+📍 India &nbsp;|&nbsp; 📫 meghanamanchal@gmail.com &nbsp;|&nbsp; 🤝 Open to internships, collaborations & open source
 
 ---
-[![](https://visitcount.itsvg.in/api?id=meghanamanchala&icon=7&color=1)](https://visitcount.itsvg.in)
+
+## 🛠️ What I Build With
+
+**Languages**
+`Python` `JavaScript` `C++` `Java`
+
+**Frontend**
+`React.js` `Next.js` `Flutter` `Tailwind CSS` `Bootstrap` `HTML5` `CSS3`
+
+**Backend**
+`Node.js` `Express.js` `Ruby on Rails` `REST APIs`
+
+**Databases & Cloud**
+`MongoDB` `PostgreSQL` `Firebase` `Vercel` `Cloudinary`
+
+**Integrations**
+`Stripe` `OpenAI API`
+
+**Tools**
+`Git & GitHub` `Postman` `Figma` `Agile / Scrum`
+
+---
+
+## 🚀 What I'm Up To
+
+- 🔨 Building full-stack web applications end-to-end
+- 🌱 Deepening my skills in system design & scalable architecture
+- 🤝 Looking to contribute to impactful open source projects
+- 💬 Always happy to talk tech, design, or collaborate on something new
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=meghanamanchala&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meghanamanchala&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghanamanchala&theme=tokyonight&hide_border=true&layout=compact&count_private=true" />
+</p>
+
+---
+
+## 📬 Let's Connect
+
+If you're working on something interesting — a startup, an open source project, or just want to exchange ideas — reach out. I'm always open to new opportunities.
+
+**meghanamanchal@gmail.com**
+
+---
+
+*"Ship it, learn from it, improve it."*
