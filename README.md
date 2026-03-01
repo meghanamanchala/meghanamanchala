@@ -41,10 +41,6 @@ I'm a developer at **Kalvium** who loves turning ideas into real, deployed produ
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meghanamanchala&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meghanamanchala&theme=tokyonight&hide_border=true" height="165" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghanamanchala&theme=tokyonight&hide_border=true&layout=compact&count_private=true" />
