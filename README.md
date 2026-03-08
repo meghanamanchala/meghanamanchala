@@ -11,16 +11,16 @@ I'm a developer at **Kalvium** who loves turning ideas into real, deployed produ
 ## 🛠️ What I Build With
 
 **Languages**
-`Python` `JavaScript` `C++` `Java`
+`Python` `Java`
 
 **Frontend**
-`React.js` `Next.js` `Flutter` `Tailwind CSS` `Bootstrap` `HTML5` `CSS3`
+`React.js` `Next.js` `Flutter` `Tailwind CSS` `Bootstrap` `HTML5` `CSS3` `Vue.js` `Svelte`
 
 **Backend**
-`Node.js` `Express.js` `Ruby on Rails` `REST APIs`
+`Node.js` `Express.js` `Ruby on Rails` `REST APIs` `Fast APIs`
 
 **Databases & Cloud**
-`MongoDB` `PostgreSQL` `Firebase` `Vercel` `Cloudinary`
+`MongoDB` `PostgreSQL` `Firebase` `Vercel` `Cloudinary` `Supabase`
 
 **Integrations**
 `Stripe` `OpenAI API`
