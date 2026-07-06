@@ -181,17 +181,6 @@ Highlights:
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=meghanamanchala&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghanamanchala&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
 
 # 🎯 2026 Goals
 
